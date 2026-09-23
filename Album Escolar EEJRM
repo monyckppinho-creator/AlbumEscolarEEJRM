@@ -75,10 +75,10 @@
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
 
   <script>
-    // 1. SUBSTÍTUO PELA SUA CHAVE DO IMGBB DE 32 CARACTERES:
-    const IMGBB_API_KEY = "COLE_SUA_CHAVE_IMGBB_AQUI";
+    // 1. b9b5ce4729a968073ab3675ba66f58f3:
+    const IMGBB_API_KEY = "b9b5ce4729a968073ab3675ba66f58f3";
 
-    // 2. SUBSTITUA PELAS SUAS CONFIGURAÇÕES DO FIREBASE:
+    // 2. b9b5ce4729a968073ab3675ba66f58f3:
     const firebaseConfig = {
       apiKey: "b9b5ce4729a968073ab3675ba66f58f3",
       authDomain: "SEU_PROJETO.firebaseapp.com",
